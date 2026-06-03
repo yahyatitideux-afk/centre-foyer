@@ -1,0 +1,10 @@
+{
+  "name": "Daryel - Centre d'Accueil et d'Urgence",
+  "description": "Portail d'orientation, d'alerte et d'information du Centre d'Accueil et d'Urgence (CAU) de Djibouti (Foyer Daryel)",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
